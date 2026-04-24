@@ -281,12 +281,7 @@ This project is licensed under the MIT License.
 - [Vercel](https://vercel.com) - Deployment platform
 - [MongoDB](https://www.mongodb.com) - Database
 
-## 📧 Contact
-
-- **Website:** [mastishk.com](https://mastishk.com)
-- **Email:** support@mastishk.com
-- **Twitter:** [@mastishk](https://twitter.com/mastishk)
 
 ---
 
-Made with ❤️ by the Mastishk Team
+Made with ❤️ by the Mastishk
